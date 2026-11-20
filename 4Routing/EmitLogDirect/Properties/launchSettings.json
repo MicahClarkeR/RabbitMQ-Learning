@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EmitLogDirect": {
+      "commandName": "Project",
+      "commandLineArgs": "warning Testing a new test!"
+    }
+  }
+}
